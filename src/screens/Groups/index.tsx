@@ -8,7 +8,7 @@ import { useState } from "react";
 import { FlatList } from "react-native";
 
 export function Groups() {
-  const [groups, setGroups] = useState(["Galera da rocket"]);
+  const [groups, setGroups] = useState([]);
   return (
     <Container>
       <Header />
