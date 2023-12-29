@@ -14,4 +14,4 @@
 - yarn add ou npm install
 - iniciar o projeto com expo: yarn expo ou npm run expo
 
-## Obs: Agradeço a visita ao projeto e se quiser ajudar deixando uma star ⭐
+### Obs: Agradeço a visita ao projeto e se quiser ajudar deixando uma star ⭐
