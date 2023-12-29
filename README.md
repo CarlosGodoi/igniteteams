@@ -12,6 +12,6 @@
 ## Comandos básicos após clone do projeto
 
 - yarn add ou npm install
-- iniciar o projeto com expo: yarn expo ou npm run expo
+- iniciar o projeto com expo: yarn start ou npm run start
 
 ### Obs: Agradeço a visita ao projeto e se quiser ajudar deixando uma ⭐
